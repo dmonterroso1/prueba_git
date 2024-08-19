@@ -1,0 +1,26 @@
+{
+    "contactos":[
+        {
+            "nombre":"John Doe",
+            "apellido":"Smith",
+            "edad": 30,
+            "activo": false,
+            "direccion":"123 Main St",
+            "telefono": [
+                {"personal":"123456789"},
+                {"trabajo":"987654321"}
+            ]
+        },
+        {
+            "nombre":"Jane Doe",
+            "apellido":"Johnson",
+            "edad": 25,
+            "activo": true,
+            "direccion":"456 Elm St",
+            "telefono": [
+                {"personal":"987654321"},
+                {"trabajo":"123456789"}
+            ]
+        }
+    ]
+}
